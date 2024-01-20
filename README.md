@@ -1,6 +1,6 @@
 # React - Routes
 
-Has all the routing features like;
+This has all the routing features like;
 ## Nesting Routes
 ## Index route
 ## useNavigate hook
